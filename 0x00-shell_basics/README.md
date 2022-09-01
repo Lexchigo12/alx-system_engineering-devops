@@ -1,1 +1,1 @@
-Display current directory contents, including hidden files 
+There is no place like home
